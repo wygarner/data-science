@@ -1,0 +1,1 @@
+Hi. I&#x27;m a mid-level software engineer trying to deploy a small (2000 max users) django app to production.<p>If I Google: How to deploy a Django app. I get 10+ different answers.<p>Can anyone on HN help me please.

@@ -1,0 +1,1 @@
+In our previous article, What You Need to Know About Product Management for AI, we discussed the need for an AI Product Manager.&#160; This role includes everything a traditional PM does, but also requires an operational understanding of machine learning software development, along with a realistic view of its capabilities and limitations. In this article, [&#8230;]

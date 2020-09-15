@@ -1,0 +1,1 @@
+locust &#8212; open source load testing tool: define user behaviour with Python code, and swarm your system with millions of simultaneous users. (via @nzigel) Background Matting &#8212; a method for creating a matte – the per-pixel foreground color and alpha – of a person by taking photos or videos in an everyday setting with a [&#8230;]

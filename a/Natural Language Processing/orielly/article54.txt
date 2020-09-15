@@ -1,0 +1,1 @@
+System Design for Advanced Beginners &#8212; a friendly explanation of the what and why of systems, with acknowledgement of the real world like There are many tools out there, each with different strengths and weaknesses, and many ways to build a technology company. The real, honest reasons that we will make many of our technological [&#8230;]

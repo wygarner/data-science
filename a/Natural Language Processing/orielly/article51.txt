@@ -1,0 +1,1 @@
+Introduction to COBOL &#8212; a 1999 web site (!) with slides from a University of Limerick course. IBM will offer free (presumably more modern) training. zoombot &#8212; a highly advanced AI to handle Zoom calls. storybook.js &#8212; open source toolkit and sandbox to build UI components in isolation so you can develop hard-to-reach states and [&#8230;]

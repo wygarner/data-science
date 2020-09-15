@@ -1,0 +1,5 @@
+E.g.<p>* incognito always
+* tor browser
+* switched X app for Y<p>...<p>For me it&#x27;s on a basic level:
+incognito mode 
+block cookies as much as I can

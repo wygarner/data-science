@@ -1,0 +1,1 @@
+We wanted to discover what our readers were doing with cloud, microservices, and other critical infrastructure and operations technologies. So we constructed a survey and ran it earlier this year: from January 9th through January 31st, 2020. All told, we received 1,283 responses. A lot happened between January and the first week of March, when [&#8230;]

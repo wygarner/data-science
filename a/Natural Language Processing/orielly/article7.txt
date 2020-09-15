@@ -1,0 +1,1 @@
+Real-time Face Video Swapping From A Single Portrait &#8212; Our method runs fully automatically and at real-time rate on any target face captured by cameras or from legacy video. More importantly, unlike existing deep learning based methods, our method does not need to pre-train any models, i.e., pre-collecting a large image/video dataset of the source [&#8230;]
