@@ -1,1 +1,0 @@
-The Zero Trust Learning Curve (Palo Alto Networks) &#8212; don&#8217;t learn with the Crown Jewels. The trouble with starting with the most sensitive protect surfaces is that they’re often too fragile and many people don’t know how they work. Starting there with Zero Trust frequently results in failures. Too often, when this happens, organizations blame [&#8230;]

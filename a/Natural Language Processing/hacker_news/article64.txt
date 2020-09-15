@@ -1,6 +1,0 @@
-Hi guys,<p>We’ve been working on a new products , the app is useful for accessing files and folders across multiple cloud storage providers. Many useful features such as multi-account support, encrypt and decrypt across multiple files and folders compress and extract functionality and many many more new features are included.<p>The app is called: Syndoc  (https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.syndoc.merlin&amp;hl=en)<p>A quick summary of the main features you’ll see (so you can get a sense of what it does, and if you&#x27;d like to beta test) - Unified view to view all your cloud drives<p>1.Upload&#x2F;download files to Google Drive, OneDrive, Amazon S3 and DropBox
-2.Copy and move files quickly between multiple accounts and providers
-3.Rename and export files and documents, preview and edit files
-4.Compress and extract folders on the go with quick &amp; easy zipping.
-5.Designed to protect your data whenever you transfer, store, or access it.
-6.Change access permissions for files &amp; folders whenever you need.<p>Do you guys have any suggestions&#x2F;advice&#x2F;feedback?

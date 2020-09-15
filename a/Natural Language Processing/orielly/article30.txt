@@ -1,1 +1,0 @@
-Super Bootable 64 &#8212; Super Mario 64 shipped before the SDK was finalised, and it had to be compiled with optimisations turned off. This meant the binary was easily reversed to source code, and now the unportable has been ported. This site probably won&#8217;t last long, because DMCA, but it&#8217;s technically a sweet feat. (via [&#8230;]

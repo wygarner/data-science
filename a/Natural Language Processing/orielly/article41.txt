@@ -1,1 +1,0 @@
-Moloch &#8212; Large scale, open source, indexed packet capture and search. 3Dify Instagram Photos &#8212; open source toolset for adding a 3d effect to photos on Instagram&#8217;s web site. It uses 3d-photo-inpainting running in Colab (free GPU) and Cloud pubsub/storage for communication. A glimpse of the future: we could augment all our apps with deep [&#8230;]

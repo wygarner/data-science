@@ -1,1 +1,0 @@
-I&#x27;m a team of one creating apps for internal use. I want to use a tool I&#x27;ll enjoy. Elm seems great but is it wise to use something so niche in production code?

@@ -1,1 +1,0 @@
-CastleDB &#8212; a structured static database [&#8230;]. CastleDB looks like any spreadsheet editor, except that each sheet has a data model. [&#8230;] stores both its data model and the data contained in the rows into an easily readable JSON file. [&#8230;] allows efficient collaboration on data editing. Mainframes Are Having a Moment (IEEE Spectrum) &#8212; [&#8230;]

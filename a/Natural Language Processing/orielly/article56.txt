@@ -1,1 +1,0 @@
-Data Governance sounds like a candidate for the most boring topic in technology: something dreamed up by middle-managers to add friction to data scientists&#8217; lives. The funny thing about governance, though, is that it’s closely related to data discovery. And data discovery is neither dull nor additional friction; it&#8217;s an exciting process that enables great [&#8230;]

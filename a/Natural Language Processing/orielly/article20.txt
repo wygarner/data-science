@@ -1,1 +1,0 @@
-The Web Assembly App Gap &#8212; This essay states the case for the modern browser as a platform, and explores some components that might fill the gaps in a modern stack. [&#8230;] Content-aware, versioned data; UI Framework; Standard interfaces for automation; Stateful Service Architecture. (via Paul Butler) Hints and Principles for Computer System Design &#8212; [&#8230;]

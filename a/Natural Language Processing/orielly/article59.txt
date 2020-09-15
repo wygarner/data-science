@@ -1,1 +1,0 @@
-Imperial College&#8217;s COVID19 Model &#8212; in github, in R, MIT-licensed. This repository has code for replication purposes. The bleeding edge code and advancements are done in a private repository. Readings on Time &#8212; I bumped on this idea while reading Alan Kay’s writing about making the difference between mutable and immutable data “moot” in the [&#8230;]

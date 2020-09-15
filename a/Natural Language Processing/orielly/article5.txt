@@ -1,1 +1,0 @@
-Undie Detector &#8212; Safe Meeting keeps an eye on you during your video conferences, and if it sees business-inappropriate attire, the video is immediately muted. Using Formal Methods to Eliminate Exploitable Bugs &#8212; An overview video of the use of formal methods to prevent bugs, with reference to DARPA&#8217;s High Assurance Cyber-Military Systems project. n8n [&#8230;]

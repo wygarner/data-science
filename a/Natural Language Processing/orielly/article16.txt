@@ -1,1 +1,0 @@
-The Paradox of Source Code Secrecy &#8212; In a world of privatized decisionmaking, the largely consistent move towards closed code in software sectors, has a number of deleterious results for the public, particularly in the age of algorithmic dominance. However, this Article argues that source code also carries a paradoxical character that is peculiar to [&#8230;]

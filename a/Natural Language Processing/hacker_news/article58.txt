@@ -1,1 +1,0 @@
-There are some servers running in pod1 with network1 and IP1. Now need to change them to network2 and IP2 in pod2.<p>If don&#x27;t delete all the servers in pod1 and create new stack with new IPs in pod2, is there an another way to do? Such as create snapshot, move the snapshot to pod2. But not sure if the snapshot can change to new IP.

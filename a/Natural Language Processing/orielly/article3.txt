@@ -1,1 +1,0 @@
-Ears to Faces &#8212; our goal is to generate a frontal face image of a subject given his/her ear image as the input. It&#8217;s &#8230; astonishing. GLTR &#8212; a visual forensic tool to detect text that was automatically generated from large language models. Moving Work From Push to Pull &#8212; A small Phoenix Project-type story [&#8230;]

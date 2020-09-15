@@ -1,2 +1,0 @@
-Just got through Lunduke&#x27;s &quot;Linux sucks 2020&quot; video [0] and even if it might be in jest, he brought up a good point that many people promoting linux, presenting linux stuff, working in opensource or contributing to it, use closed-source OSes.
-I&#x27;m not trying to bash anybody, it&#x27;s just genuine curiosity as to why.<p>0: https:&#x2F;&#x2F;open.lbry.com&#x2F;@Lunduke:e&#x2F;LinuxSucks2020:b?t=3215

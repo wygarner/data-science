@@ -1,1 +1,0 @@
-It seems to me there is no reason why you couldn&#x27;t publish source code in any language to npm!<p>Out of curiosity, are there any new languages or platforms that officially use npm as a package manager?<p>For example [esy](https:&#x2F;&#x2F;esy.sh&#x2F;en&#x2F;) is a package manager for reasonml and ocaml that uses npm.<p>Thanks!

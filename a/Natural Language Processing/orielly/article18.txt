@@ -1,1 +1,0 @@
-This Service Helps Malware Authors Fix Flaws in their Code (Krebs on Security) &#8212; Of course the Bad Guys(tm) are going to want security audits. Of course! “We can examine your (or not exactly your) PHP code for vulnerabilities and backdoors,” reads his offering on several prominent Russian cybercrime forums. “Possible options include, for example, [&#8230;]
