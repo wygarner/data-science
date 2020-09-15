@@ -1,0 +1,1 @@
+flecs &#8212; a Fast and Lightweight ECS (Entity Component System). An ECS [&#8230;] is a way to organize code that is mostly used in gaming and simulation projects. ECS code generally performs better than traditional OOP, and is typically easier to reuse. The main differences between ECS and OOP are composition is a first class [&#8230;]

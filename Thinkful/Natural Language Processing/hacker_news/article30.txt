@@ -1,0 +1,1 @@
+I&#x27;ve been toying with this idea of creating a 25W computer chess tournament with prize money. Computer programs would be limited to running at 25W, to match the human brain energy usage. I hope this would level the playing field and create a fair comparison about the strength of both humans and computers at chess. What thinkest thou?

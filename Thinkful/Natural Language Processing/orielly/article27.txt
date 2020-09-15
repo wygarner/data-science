@@ -1,0 +1,1 @@
+Oragono &#8212; a modern IRC server written in Go. DeepFake Cartoon Voices &#8212; Fifteen.ai is a text-to-speech tool that you can use to generate 44.1 kHz voices of various characters. The voices are generated in real time using multiple audio synthesis algorithms and customized deep neural networks trained on very little available data (between 55 [&#8230;]

@@ -1,0 +1,1 @@
+Raman Spectroscopy &#8212; Low Cost, High Performances, 100% Open Source Raman Spectrometer. [&#8230;] We currently offer the spectrometer in a Starter Edition version designed for teaching Raman spectroscopy and we will soon release a Performance Edition version which achieves a tested 12 cm-1 resolution at low costs. Great to see this getting into the hands [&#8230;]

@@ -1,0 +1,1 @@
+It&#8217;s Time to Learn (Scott Berkun) &#8212; a strong response to Marc Andreessen&#8217;s It&#8217;s Time to Build. It feels like we are in a disrupted time when anything is possible, and folks are wondering where the levers are to pull. pygraphistry &#8212; a library to extract, transform, and visually explore big graphs. Desert Island Devops [&#8230;]

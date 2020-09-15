@@ -1,0 +1,1 @@
+Hi,<p>I&#x27;m looking for a tool that can extract metadata and categorize products based on descriptions. So if I&#x27;m selling 10 different fragrances for example, this program should analyze the text and identify that the [colors] are different.<p>I think a YC startup does something like this. Anyone have pointers to code or what this domain is called?<p>Thanks!

@@ -1,0 +1,1 @@
+What are some simple implementations of machine learning that people have used at their company that has resulted in a large win? I&#x27;m hoping for non-obvious answers like a recommendation system for their users.

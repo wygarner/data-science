@@ -1,0 +1,1 @@
+I want to write a fuzzer from the ground up, mostly for self-educational reasons. I&#x27;m interested in both resources that teach the basic algorithms and methods and more modern approaches.

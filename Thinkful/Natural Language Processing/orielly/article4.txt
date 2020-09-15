@@ -1,0 +1,1 @@
+In a recent Twitter thread, Adam Jacob (co-founder and former CTO of Chef) talked about Chef’s switch from an “open core” model to a a “Red Hat” model for licensing their software.&#160; It was a fascinating discussion, with important implications for open source companies and their business models. I’ll reproduce the thread here, with Nat [&#8230;]

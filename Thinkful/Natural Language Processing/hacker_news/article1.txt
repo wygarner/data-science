@@ -1,0 +1,1 @@
+As the title states.. Is the HN ranking algorithm based purely on a post&#x2F;comment&#x27;s upvotes and engagement, or is the author&#x27;s karma points an input into the algorithm as well?
